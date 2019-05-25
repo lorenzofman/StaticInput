@@ -12,4 +12,5 @@ public class Example : MonoBehaviour
     {
         Debug.Log("Jump");
     }
+    
 }
